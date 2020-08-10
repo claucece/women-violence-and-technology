@@ -29,6 +29,9 @@ increase the safety and security of groups targeted by this violence.
 * [The Predator in Your Pocket: A Multidisciplinary Assessment of the Stalkerware Application Industry](https://citizenlab.ca/2019/06/the-predator-in-your-pocket-a-multidisciplinary-assessment-of-the-stalkerware-application-industry/)
 * [Navegando Libres por la web](https://www.navegandolibres.org/)
 * [Ecuador's diagnose of online gender violence](https://www.navegandolibres.org/images/navegando/Diagnostico_navegando_libres_f.pdf)
+* [Not “revenge porn”: New trends in non-consensual intimate imagery in Uganda & the role of digital security](https://thebachchaoproject.org/not-revenge-porn-new-trends-in-non-consensual-intimate-imagery-in-uganda-the-role-of-digital-security-session-at-rightscon-online/)
+* [Privacy threats in intimate relationships](https://academic.oup.com/cybersecurity/article/6/1/tyaa006/5849222?searchresult=1)
+* [Intimate surveillance](https://www.uidaho.edu/~/media/UIdaho-Responsive/Files/law/law-review/articles/volume-51/51-3-levy-karen-ec.ashx)
 
 ## Ideas
 
