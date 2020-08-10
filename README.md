@@ -1,7 +1,7 @@
 # Gender-Based violence using technology
 
 This is a repository to list the different organizations that are
-currently working on understanding how gender-based violence is enhance
+currently working on understanding how gender-based violence is enhanced
 through the usage of technology. It is also a place to list the different
 studies and research that is already out there.
 
