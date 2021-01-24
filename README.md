@@ -25,6 +25,7 @@ increase the safety and security of groups targeted by this violence.
 ## Studies on gender based violence
 
 * [Battered women and learned helplessness](https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=46167) by L. E. Walker
+* [Leaving An Abusive Partner: An Empirical Review of Predictors, the Process of Leaving, and Psychological Well-Being](Leaving An Abusive Partner: An Empirical Review of Predictors, the Process of Leaving, and Psychological Well-Being) by Deborah K. Anderson, Daniel G. Saunders
 
 ## Studies on gender based violence enhanced with digital tools
 
