@@ -24,15 +24,24 @@ increase the safety and security of groups targeted by this violence.
 
 ## Studies or research
 
-* [13 manifestations of gender-based violence using technology](https://www.genderit.org/resources/13-manifestations-gender-based-violence-using-technology)
-* [What is access? Why are women less connected?](https://www.derechosdigitales.org/wp-content/uploads/what-is-access-mx.pdf)
+### Academic Approach
+
+* [Stories from Survivors: Privacy & Security Practices when Coping with Intimate Partner Abuse](https://dl.acm.org/doi/abs/10.1145/3025453.3025875) by Tara Matthews, Kathleen O’Leary, Anna Turner, Manya Sleeper, Jill Palzkill Woelfer, Martin Shelton, Cori Manthorne, Elizabeth F. Churchill, Sunny Consolvo
+* [Privacy threats in intimate relationships](https://academic.oup.com/cybersecurity/article/6/1/tyaa006/5849222?searchresult=1) by Karen Levy, Bruce Schneier
+* [Intimate surveillance](https://www.uidaho.edu/~/media/UIdaho-Responsive/Files/law/law-review/articles/volume-51/51-3-levy-karen-ec.ashx) by Karen Levy
+
+### Organization Approach
+
+* [What is access? Why are women less connected?](https://www.derechosdigitales.org/wp-content/uploads/what-is-access-mx.pdf) by Derechos Digitales
 * [COVID-19 and Technology-Enabled Intimate Partner Violence](https://82beb9a6-b7db-490a-88be-9f149bafe221.filesusr.com/ugd/c4e6d5_739b032c9b814b1997d85454b02c5057.pdf?index=true)
 * [The Predator in Your Pocket: A Multidisciplinary Assessment of the Stalkerware Application Industry](https://citizenlab.ca/2019/06/the-predator-in-your-pocket-a-multidisciplinary-assessment-of-the-stalkerware-application-industry/)
 * [Navegando Libres por la web](https://www.navegandolibres.org/)
 * [Ecuador's diagnose of online gender violence](https://www.navegandolibres.org/images/navegando/Diagnostico_navegando_libres_f.pdf)
 * [Not “revenge porn”: New trends in non-consensual intimate imagery in Uganda & the role of digital security](https://thebachchaoproject.org/not-revenge-porn-new-trends-in-non-consensual-intimate-imagery-in-uganda-the-role-of-digital-security-session-at-rightscon-online/)
-* [Privacy threats in intimate relationships](https://academic.oup.com/cybersecurity/article/6/1/tyaa006/5849222?searchresult=1)
-* [Intimate surveillance](https://www.uidaho.edu/~/media/UIdaho-Responsive/Files/law/law-review/articles/volume-51/51-3-levy-karen-ec.ashx)
+
+### Guideline Approach
+
+* [13 manifestations of gender-based violence using technology](https://www.genderit.org/resources/13-manifestations-gender-based-violence-using-technology)
 
 ## Ideas
 
