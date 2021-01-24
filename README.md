@@ -22,15 +22,21 @@ increase the safety and security of groups targeted by this violence.
 * [Mexico's Luchadoras](https://luchadoras.mx/)
 * [Echap](https://echap.eu.org/)
 
-## Studies or research
+## Studies on gender based violence
 
-### Academic Approach
+* [Battered women and learned helplessness](https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=46167) by L. E. Walker
+
+## Studies on gender based violence enhanced with digital tools
+
+### Studies or research
+
+#### Academic Approach
 
 * [Stories from Survivors: Privacy & Security Practices when Coping with Intimate Partner Abuse](https://dl.acm.org/doi/abs/10.1145/3025453.3025875) by Tara Matthews, Kathleen O’Leary, Anna Turner, Manya Sleeper, Jill Palzkill Woelfer, Martin Shelton, Cori Manthorne, Elizabeth F. Churchill, Sunny Consolvo
 * [Privacy threats in intimate relationships](https://academic.oup.com/cybersecurity/article/6/1/tyaa006/5849222?searchresult=1) by Karen Levy, Bruce Schneier
 * [Intimate surveillance](https://www.uidaho.edu/~/media/UIdaho-Responsive/Files/law/law-review/articles/volume-51/51-3-levy-karen-ec.ashx) by Karen Levy
 
-### Organization Approach
+#### Organization Approach
 
 * [What is access? Why are women less connected?](https://www.derechosdigitales.org/wp-content/uploads/what-is-access-mx.pdf) by Derechos Digitales
 * [COVID-19 and Technology-Enabled Intimate Partner Violence](https://82beb9a6-b7db-490a-88be-9f149bafe221.filesusr.com/ugd/c4e6d5_739b032c9b814b1997d85454b02c5057.pdf?index=true)
@@ -39,7 +45,7 @@ increase the safety and security of groups targeted by this violence.
 * [Ecuador's diagnose of online gender violence](https://www.navegandolibres.org/images/navegando/Diagnostico_navegando_libres_f.pdf)
 * [Not “revenge porn”: New trends in non-consensual intimate imagery in Uganda & the role of digital security](https://thebachchaoproject.org/not-revenge-porn-new-trends-in-non-consensual-intimate-imagery-in-uganda-the-role-of-digital-security-session-at-rightscon-online/)
 
-### Guideline Approach
+#### Guideline Approach
 
 * [13 manifestations of gender-based violence using technology](https://www.genderit.org/resources/13-manifestations-gender-based-violence-using-technology)
 
