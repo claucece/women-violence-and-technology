@@ -40,7 +40,9 @@ increase the safety and security of groups targeted by this violence.
 * [Care Infrastructures for Digital Security in Intimate Partner Violence](https://www.ipvtechresearch.org/_files/ugd/884c63_60bad8c4a8e1421eaefef28f0ca5c70a.pdf) by Emily Tseng, Mehrnaz Sabet, Rosanna Bellini, Harkiran Kaur Sodhi, Thomas Ristenpart and Nicola Dell
 * [“So-called privacy breeds evil”: Narrative Justifications for Intimate Partner Surveillance in Online Forums](https://rist.tech.cornell.edu/papers/forums.pdf) by Rosanna Bellini, Emily Tseng, Nora Mcdonald, Rachel Greenstadt, Damon Mccoy, Thomas Ristenpart, and Nicola Dell
 * [The Tools and Tactics Used in Intimate Partner Surveillance: An Analysis of Online Infidelity Forums](https://arxiv.org/abs/2005.14341) by Emily Tseng, Rosanna Bellini, Nora McDonald, Matan Danos, Rachel Greenstadt, Damon McCoy, Nicola Dell, and Thomas Ristenpart
+* [“A Stalker’s Paradise”: How Intimate Partner Abusers Exploit Technology](http://nixdell.com/papers/stalkers-paradise-intimate.pdf) by Diana Freed, Jackeline Palmer, Diana Minchala, Karen Levy, Thomas Ristenpart and Nicola Dell
 * [Various](https://ipvtechbib.randhome.io/)
+* [Other various](https://github.com/cornelltech/CS5439-Fall2018/blob/master/README.md)
 
 #### Organization Approach
 
